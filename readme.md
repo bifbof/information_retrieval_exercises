@@ -4,7 +4,7 @@ This are the exercises copied from the lecture Information Retrieval FS 2021 by 
 
 # Installation  
 
-I assume that you have Anaconda installed on your computer if not go to [anaconda.com](anaconda.com). Then after that follow these steps. If you are using pip instead the installation process should be similar.
+I assume that you have Anaconda installed on your computer if not go to [anaconda.com](https://www.anaconda.com). Then after that follow these steps. If you are using pip instead the installation process should be similar.
 
 1. Open your command window and go to the root folder containing all the files
 2. use `conda env create -f environment.yml` to create a new environment

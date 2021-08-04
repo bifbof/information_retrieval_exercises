@@ -9,7 +9,7 @@ I assume that you have Anaconda installed on your computer if not go to [anacond
 1. Open your command window and set the current directory to the root folder containing all the files
 2. use `conda env create -f environment.yml` to create a new environment
 3. type `conda activate ir` 
-4. then `jupyter notebook` to start your start your coding environment
+4. then `jupyter notebook` to start your jupyter coding environment
 
 Happy Coding!
 

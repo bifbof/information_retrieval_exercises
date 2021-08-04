@@ -22,4 +22,4 @@ import sys
 sys.path.append("../../")
 ````
 
-at the beginning of each notebook to import the stuff in the root.
+at the beginning of a notebook to import the stuff in the root.

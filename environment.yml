@@ -1,0 +1,10 @@
+# run with conda env create -f environment.yml
+name: ir
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- python=3.6
+- numpy
+- tatsu=4.3  # else copied file raise errors
+- jupyter

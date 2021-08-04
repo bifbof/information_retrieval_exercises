@@ -8,3 +8,5 @@ dependencies:
 - numpy
 - tatsu=4.3  # else copied file raise errors
 - jupyter
+- nltk
+- matplotlib

@@ -1,6 +1,8 @@
 # Introduction
 
-This are the exercises copied from the lecture Information Retrieval FS 2021 by Gislain Fourny. As all exercises are on a remote jupyter server I copied them here for my convenience. I take no responsibility for any bugs I may introduced.
+These are the exercises from the lecture Information Retrieval FS 2021 by Ghislain Fourny. Since all the exercises are on a remote Jupyter server, I copied them here for convenience, that I can access them even after the lecture. I take no responsibility for any errors I may have introduced.
+
+All credit goes to the TA team and Mr. Fourny for providing not only this code, but also a fantastic lecture. [link](https://systems.ethz.ch/education/courses/2021-spring/information-retrieval.html)
 
 # Installation  
 
